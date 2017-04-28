@@ -1,0 +1,26 @@
+
+.soc {
+	display: flex;
+	position: absolute;
+	transform: translate(-50%, -50%);
+}
+
+.soc li {
+	list-style: none;
+}
+
+.social {
+	width: 25px;
+	height: 25px;
+	background: #FF6700;
+	text-align:center;
+	color: white;
+	line-height: 25px;
+	font-size: 12px;
+	margin: 0 10px;
+	display: block;
+	border-radius: 50%;
+	position: relative;
+	overflow: hidden;
+	border: 3px solid #fff;
+}
